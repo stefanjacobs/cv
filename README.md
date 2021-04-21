@@ -1,6 +1,6 @@
 # CV Readme
 
-Idea of this repository is to have a public facing CV available. Yhould look good and contain all the relevant stuff that is there.
+Idea of this repository is to have a public facing CV available. Should look good and contain all the relevant stuff that is there.
 
 ## Inspiration and Source
 
